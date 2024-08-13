@@ -1,7 +1,0 @@
--- Exemplo de código fictício
-local function animateBoot()
-    -- Configurações da animação
-    local animationDuration = 5  -- Duração da animação em segundos
-    local bootImage = "rbxassetid://123456789"  -- ID da imagem usada na animação
-    -- Código para aplicar a animação
-end
